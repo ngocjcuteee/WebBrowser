@@ -1,0 +1,32 @@
+C:\Users\quoch\source\repos\WebBrowser\FireFux\bin\Debug\FireFux.exe.config
+C:\Users\quoch\source\repos\WebBrowser\FireFux\bin\Debug\FireFux.exe
+C:\Users\quoch\source\repos\WebBrowser\FireFux\bin\Debug\FireFux.pdb
+C:\Users\quoch\source\repos\WebBrowser\FireFux\obj\Debug\FireFux.csproj.AssemblyReference.cache
+C:\Users\quoch\source\repos\WebBrowser\FireFux\obj\Debug\FireFux.Form1.resources
+C:\Users\quoch\source\repos\WebBrowser\FireFux\obj\Debug\FireFux.Properties.Resources.resources
+C:\Users\quoch\source\repos\WebBrowser\FireFux\obj\Debug\FireFux.csproj.GenerateResource.cache
+C:\Users\quoch\source\repos\WebBrowser\FireFux\obj\Debug\FireFux.csproj.CoreCompileInputs.cache
+C:\Users\quoch\source\repos\WebBrowser\FireFux\obj\Debug\FireFux.exe
+C:\Users\quoch\source\repos\WebBrowser\FireFux\obj\Debug\FireFux.pdb
+C:\Users\bichl\Downloads\WebBrowser\WebBrowser\FireFux\obj\Debug\FireFux.csproj.AssemblyReference.cache
+C:\Users\bichl\Downloads\WebBrowser\WebBrowser\FireFux\obj\Debug\FireFux.csproj.SuggestedBindingRedirects.cache
+C:\Users\bichl\Downloads\WebBrowser\WebBrowser\FireFux\obj\Debug\FireFux.Form1.resources
+C:\Users\bichl\Downloads\WebBrowser\WebBrowser\FireFux\obj\Debug\FireFux.Properties.Resources.resources
+C:\Users\bichl\Downloads\WebBrowser\WebBrowser\FireFux\obj\Debug\FireFux.csproj.GenerateResource.cache
+C:\Users\bichl\Downloads\WebBrowser\WebBrowser\FireFux\obj\Debug\FireFux.csproj.CoreCompileInputs.cache
+C:\Users\bichl\Downloads\WebBrowser\WebBrowser\FireFux\obj\Debug\FireFux.exe
+C:\Users\bichl\Downloads\WebBrowser\WebBrowser\FireFux\obj\Debug\FireFux.pdb
+C:\Users\bichl\Downloads\WebBrowser\WebBrowser\FireFux\bin\Debug\FireFux.exe.config
+C:\Users\bichl\Downloads\WebBrowser\WebBrowser\FireFux\bin\Debug\FireFux.exe
+C:\Users\bichl\Downloads\WebBrowser\WebBrowser\FireFux\bin\Debug\FireFux.pdb
+C:\Users\bichl\OneDrive\Máy tính\LTMCB\WebBrowser\WebBrowser\FireFux\bin\Debug\FireFux.exe.config
+C:\Users\bichl\OneDrive\Máy tính\LTMCB\WebBrowser\WebBrowser\FireFux\bin\Debug\FireFux.exe
+C:\Users\bichl\OneDrive\Máy tính\LTMCB\WebBrowser\WebBrowser\FireFux\bin\Debug\FireFux.pdb
+C:\Users\bichl\OneDrive\Máy tính\LTMCB\WebBrowser\WebBrowser\FireFux\obj\Debug\FireFux.csproj.AssemblyReference.cache
+C:\Users\bichl\OneDrive\Máy tính\LTMCB\WebBrowser\WebBrowser\FireFux\obj\Debug\FireFux.csproj.SuggestedBindingRedirects.cache
+C:\Users\bichl\OneDrive\Máy tính\LTMCB\WebBrowser\WebBrowser\FireFux\obj\Debug\FireFux.Form1.resources
+C:\Users\bichl\OneDrive\Máy tính\LTMCB\WebBrowser\WebBrowser\FireFux\obj\Debug\FireFux.Properties.Resources.resources
+C:\Users\bichl\OneDrive\Máy tính\LTMCB\WebBrowser\WebBrowser\FireFux\obj\Debug\FireFux.csproj.GenerateResource.cache
+C:\Users\bichl\OneDrive\Máy tính\LTMCB\WebBrowser\WebBrowser\FireFux\obj\Debug\FireFux.csproj.CoreCompileInputs.cache
+C:\Users\bichl\OneDrive\Máy tính\LTMCB\WebBrowser\WebBrowser\FireFux\obj\Debug\FireFux.exe
+C:\Users\bichl\OneDrive\Máy tính\LTMCB\WebBrowser\WebBrowser\FireFux\obj\Debug\FireFux.pdb
