@@ -1,0 +1,9 @@
+C:\Users\bichl\OneDrive\Máy tính\LTMCB\WebBrowser\WebBrowser\FireFux\obj\Debug\Bee.csproj.AssemblyReference.cache
+C:\Users\bichl\OneDrive\Máy tính\LTMCB\WebBrowser\WebBrowser\FireFux\obj\Debug\Bee.csproj.SuggestedBindingRedirects.cache
+C:\Users\bichl\OneDrive\Máy tính\LTMCB\WebBrowser\WebBrowser\FireFux\obj\Debug\Bee.Form1.resources
+C:\Users\bichl\OneDrive\Máy tính\LTMCB\WebBrowser\WebBrowser\FireFux\obj\Debug\FireFux.Properties.Resources.resources
+C:\Users\bichl\OneDrive\Máy tính\LTMCB\WebBrowser\WebBrowser\FireFux\obj\Debug\Bee.csproj.GenerateResource.cache
+C:\Users\bichl\OneDrive\Máy tính\LTMCB\WebBrowser\WebBrowser\FireFux\obj\Debug\Bee.csproj.CoreCompileInputs.cache
+C:\Users\bichl\OneDrive\Máy tính\LTMCB\WebBrowser\WebBrowser\FireFux\obj\Debug\FireFux.exe
+C:\Users\bichl\OneDrive\Máy tính\LTMCB\WebBrowser\WebBrowser\FireFux\obj\Debug\FireFux.pdb
+C:\Users\bichl\OneDrive\Máy tính\LTMCB\WebBrowser\WebBrowser\FireFux\obj\Debug\Bee.Bee.resources

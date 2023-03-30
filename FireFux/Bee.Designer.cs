@@ -1,7 +1,7 @@
 ﻿
-namespace FireFux
+namespace Bee
 {
-    partial class Form1
+    partial class Bee
     {
         /// <summary>
         /// Required designer variable.
@@ -29,7 +29,7 @@ namespace FireFux
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Bee));
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
             this.toolStripButton1 = new System.Windows.Forms.ToolStripButton();
             this.toolStripButton2 = new System.Windows.Forms.ToolStripButton();
@@ -182,6 +182,7 @@ namespace FireFux
             this.toolStripSplitButton2.Name = "toolStripSplitButton2";
             this.toolStripSplitButton2.Size = new System.Drawing.Size(41, 26);
             this.toolStripSplitButton2.Text = "toolStripSplitButton1";
+            this.toolStripSplitButton2.ButtonClick += new System.EventHandler(this.toolStripSplitButton2_ButtonClick);
             // 
             // toolStripMenuItem1
             // 
@@ -190,6 +191,7 @@ namespace FireFux
             | System.Windows.Forms.Keys.W)));
             this.toolStripMenuItem1.Size = new System.Drawing.Size(352, 34);
             this.toolStripMenuItem1.Text = "Xóa hết các tab";
+            this.toolStripMenuItem1.Click += new System.EventHandler(this.toolStripMenuItem1_Click);
             // 
             // toolStripMenuItem5
             // 
